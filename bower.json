@@ -1,0 +1,10 @@
+{
+  "name": "emoji-rain-demo",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.7.0",
+    "emoji-rain": "1.0.0" 
+  },
+  "ignore": []
+}
+
